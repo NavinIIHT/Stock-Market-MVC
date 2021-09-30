@@ -36,7 +36,7 @@ public class BusinessController {
 	@RequestMapping(value = "/addNewCompany", method = RequestMethod.GET)
 	public String addNewCompany(Model model)throws Exception {
 		
-		return "addCompanyInfo";
+		return "";
 	}
 	// -----------------------------------------------------------------------------------------------
 	@RequestMapping(value = "/saveNewCompany", method = RequestMethod.POST)
