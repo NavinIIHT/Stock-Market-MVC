@@ -1,5 +1,5 @@
 package com.iiht.stockExchange.DBConnectivityTestCases;
-
+/*
 import static com.iiht.stockExchange.UtilTestClass.TestUtils.*;
 
 import java.io.IOException;
@@ -73,5 +73,5 @@ public class TestDBConnection
 			value = true;
 		
 	    yakshaAssert(currentTest(), value ? true : false, businessTestFile);
-	}*/
-}
+	}
+}*/
